@@ -1,1 +1,1 @@
-Some text
+Added a new file with some text by using  terminal commands  to create a file and push into repository
