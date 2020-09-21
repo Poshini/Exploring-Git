@@ -20,6 +20,6 @@ git config --system core.editor vim
 
 
 
-Cache your GitHub credentials (for 1 hour):
+Cache your GitHub credentials (for 1 hour) : 
 
 git config --global credential.helper 'cache --timeout=3600'
